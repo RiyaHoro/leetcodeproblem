@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//For detailed Explanation 
+//https://leetcode.com/problems/longest-consecutive-sequence/solutions/5674976/c-linear-time-simple-and-logical-union-strategy/
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
